@@ -37,10 +37,7 @@ You calculate the new fun level (d2).
 The difference between the new and old fun levels, divided by the tiny increase in playtime, tells you how quickly your fun changes with time.
 This is what derivatives do in calculus: they measure how much one thing changes in response to changes in another thing.
 
-
-## Understanding the Code
-
-### Class Definition: `Value`
+## Class Definition: `Value`
 
 1. **Class Declaration:**
    ```python
